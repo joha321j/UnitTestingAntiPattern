@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7ce0830-446d-4407-8a83-432ea9591bec" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AntiPatterns/src/AnotherClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AntiPatterns/AntiPatterns.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AntiPatterns/AntiPatterns.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AntiPatterns/src/AntiPatterns.java" beforeDir="false" afterPath="$PROJECT_DIR$/AntiPatterns/Test/AntiPatterns.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AntiPatterns/src/DataClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/AntiPatterns/src/DataClass.java" afterDir="false" />
-    </list>
+    <list default="true" id="d7ce0830-446d-4407-8a83-432ea9591bec" name="Default Changelist" comment="test" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +102,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553777482597" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553778271401" />
     <property name="jdk.selected.JAVA_MODULE" value="12" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -149,12 +143,18 @@
       <option name="project" value="LOCAL" />
       <updated>1553776147039</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <created>1553777325336</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1553777325336</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="-7" width="1488" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -166,6 +166,7 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -269,6 +270,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
